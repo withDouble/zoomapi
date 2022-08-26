@@ -1,5 +1,5 @@
 {
-  "name": "zoomapi",
+  "name": "@withdouble/zoomapi",
   "version": "1.15.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
